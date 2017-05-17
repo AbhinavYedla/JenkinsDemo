@@ -1,2 +1,2 @@
 # JenkinsDemo
-Test for jenkins 5
+Test for jenkins 6
